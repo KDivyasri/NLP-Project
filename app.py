@@ -1,3 +1,4 @@
+# Entry point for the Streamlit app
 from fastapi import FastAPI
 import uvicorn
 import sys
